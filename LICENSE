@@ -5,32 +5,30 @@
 						
 						Copyright (C) 2022 Lenicyl
 
----
 0. Permissions
 	Permission is granted to freely copy, modify,
 	and distribute the resources covered by this license,
 	as long as the following conditions from this license are met,
 	and the license is and approval is obtained by emailing "hoot@stepsister.top"
 
----
-1. Disclaimers
+1. General Conditions
 
-	a) By using this license you agree to abide by any revisions made to this license. (Read Section X)
+	a) By using this license you agree to abide by any revisions made to this license. (Read Section 6)
 	
 	b) This software may not be compressed using run-length encoding (RLE) unless the user owns a cheese grater.
 	
 	c) When a software with this license is used, the user must own valid licenses to all programs installed on their computers,
 	   This restriction does not apply if the user has emailed the owner of the software, confessing about their crimes
+	   
+   	d) Credit to the original work is retained
 
----
 2. Requirements
 	
 	a) The source code of the project must be made available, without requiring special access, on the Internet.
 	
 	b) The project must be ethical and must not be used for evil or ill deeds
 
----
-3. Modifying and/or redistributing code
+3. Modifying and/or redistributing
 
 	a) If you modify any code in this project, you must use Git to format the result in a patch file, then calculate the MD5 hash of the file in hexadecimal  	     format.
 	   If the hash does not start with the letter "e", you must delete all changes and start again, and repeat until the hast starts with "e". 
@@ -41,27 +39,35 @@
 	c) The program's name remains a derivative from the original name. 
 	   For example, renaming a program named "bruh" to "bruhmium" is acceptable, but renaming it to "haha" is not.
 	   
-2. 
+	d) Do not use the Program to make a game.
+	   
+2. Additional Conditions
+	
+	a) Users of "Windows 11" must downgrade to "Windows 10, 7, XP or Vista" or switch to "linux" to be able to be able to use this project
+	
+	b) Users of Mac are to freeze their devices for 60 seconds to ensure proper working of the program
+	
+	c) Users of "MultiMC" must remove "MultiMC" before using this program, or use an alternative such as "PolyMC"
 
+5. Selling
 
+	a) The program may be sold freely as long as section 3 is followed
+	
+	b)  If and when the Program is sold, the Program has to contain a DVD or .CD with a "Thank You" note attached.
+	
+6. Revised Versions of this lisence 
 
+	a) The program has has to abide by any revisions made to this license with a deadline of 4 days
+	
+	b) Any projects under this license have to be updated to the revised license with a grace period of 6 months.  
+	
+	c) You are not allowed to make any commits unless the license has been updated 
 
-X. Revised Versions of this lisence 
-
-XX. Termination
+7. Termination
 	a) The rights provided by this license will be void if you fail to comply with the terms of this license
 	
 	b) You are not allowed to use this license with the same project even if conditions are met 
 	
-	b) You may seek permission to re-use this licence by emailing hoot@stepsister.top
-
-
-
-- 3. Users of "Windows 11" must downgrade to "Windows 10, 7, XP or Vista" or switch to "linux" to be able to use this project
-- 4. Users of Mac are to freeze their devices for 60 seconds to ensure proper working of the program
-- 5. Credit to the original work is retained
-- 6. Users of "MultiMC" must remove "MultiMC" before using this program, or use an alternative such as "PolyMC"
-- 7. Damages arising from the use of this program will be not be repaid by money, but will be repaid by surrendering any valuable 2b2t assets. 
-- 8. Do not use the Program to make a game.
-- 9. If a Program is sold, the Program has to contain a DVD or .CD with a "Thank You" note attached.
-- 10. 
+	c) You may seek permission to re-use this licence by emailing hoot@stepsister.top
+	
+	d) Damages arising from the use of this program will be not be repaid by money, but will be repaid by surrendering any valuable 2b2t assets
